@@ -1,18 +1,18 @@
 # Desafio-01_Conceitos-do-NodeJS
-Desafio sobre Fundamento e Conceitos do NodeJS aplicado no Bootcamp Ignite
+Desafio sobre Fundamentos e Conceitos do NodeJS aplicado no Bootcamp Ignite
 
 # Descrição:
 Nesse desafio, será criada uma aplicação para treinar o que já foi aprendido no Node.js!
 
-Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
+Essa será uma aplicação para gerenciar tarefas (em inglês *todos*).Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
 - Criar um novo *todo*;
 - Listar todos os *todos*;
 - Alterar o `title` e `deadline` de um *todo* existente;
 - Marcar um *todo* como feito;
-- Excluir um *todo*;
+- Excluir um *todo*.
 
-Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
+Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito. 🚀
 
 # Rotas da aplicação
 
@@ -23,7 +23,7 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 - PATCH /todos/:id/done
 - DELETE /todos/:id
 
-# Específicação dos testes
+# Especificação dos testes
 
 ## Testes de usuários
 
